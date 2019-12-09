@@ -1,0 +1,4 @@
+C:\Users\Toopes Family\Desktop\Jordan's Stuff\IHCC\Winter Term\Cobol\CBLJRT00\bin\x86\Debug\CBLJRT00.idy
+C:\Users\Toopes Family\Desktop\Jordan's Stuff\IHCC\Winter Term\Cobol\CBLJRT00\obj\x86\Debug\CBLJRT00.idy
+C:\COBOLWI19\CBLJRT00\bin\x86\Debug\CBLJRT00.idy
+C:\COBOLWI19\CBLJRT00\obj\x86\Debug\CBLJRT00.idy
